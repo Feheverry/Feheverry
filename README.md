@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Feheverry
+- 👋 Hi, I’m @Fecheverry
 - 👀 I’m interested in art, 3D renders, and all type of videogames
 - 🌱 I’m currently learning Unreal Engine, Unity and Maya 3D
 - 💞️ I’m looking to collaborate on videogame prop modelling
